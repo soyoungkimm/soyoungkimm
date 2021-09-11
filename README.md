@@ -1,4 +1,3 @@
-<br></br>
 ### 👋 Hello! 
 ### I'm an aspiring backend developer. :smile:
 ### I mainly study Java and Spring. :two_hearts:
