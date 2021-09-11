@@ -8,10 +8,10 @@
 ### My Gmail 
 <a href="mailto:ksoyoung09@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 ### My Blog 
-<a href="https://ksyy.tistory.com/"><img src="https://img.shields.io/badge/Blog-#31B8BB?style=flat-square&logo=&logoColor=white"/></a>
+<a href="https://ksyy.tistory.com/"><img src="https://img.shields.io/badge/Blog-#31B8BB?style=flat-square&logo=html5&logoColor=white"/></a>
 
 ### Skills currently being studied 
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
