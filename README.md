@@ -1,4 +1,9 @@
-### Hi there 👋
+### 👋 Hello! 
+### I'm an aspiring backend developer. :simple_smile:
+### I mainly study Java and Spring. :선물_하트:
+
+### My gmail 
+### My Blog
 
 <!--
 **soyoungkimm/soyoungkimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
