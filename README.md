@@ -1,5 +1,5 @@
 ### 👋 Hello! 
-### I'm an aspiring backend developer. :simple_smile:
+### I'm an aspiring backend developer. :smile:
 ### I mainly study Java and Spring. :gift_heart:
 
 ### My gmail 
