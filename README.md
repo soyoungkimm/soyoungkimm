@@ -11,10 +11,10 @@
 <a href="https://ksyy.tistory.com/"><img src="https://img.shields.io/badge/Blog-#31B8BB?style=flat-square&logo=html5&logoColor=white"/></a>
 
 ### Skills currently being studied 
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=SPRING&logoColor=white">
 
 <!--
 **soyoungkimm/soyoungkimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
