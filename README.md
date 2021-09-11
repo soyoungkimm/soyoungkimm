@@ -5,16 +5,11 @@
 ### I mainly study Java and Spring. :two_hearts:
 
 
-### My Gmail 
-<a href="mailto:ksoyoung09@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-### My Blog 
-<a href="https://ksyy.tistory.com/"><img src="https://img.shields.io/badge/Blog-31B8BB?style=flat-square&logo=html5&logoColor=white"/></a>
+### My Gmail <a href="mailto:ksoyoung09@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+### My Blog <a href="https://ksyy.tistory.com/"><img src="https://img.shields.io/badge/Blog-31B8BB?style=flat-the-badge&logo=blogger&logoColor=white"/></a>
 
 ### Skills currently being studied 
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat-the-badge&logo=JAVA&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat-the-badge&logo=SPRING&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat-the-badge&logo=JAVA&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/JSP-007396?style=flat-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat-the-badge&logo=SPRING&logoColor=white">
 
 <!--
 **soyoungkimm/soyoungkimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
