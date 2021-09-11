@@ -1,6 +1,6 @@
 ### 👋 Hello! 
 ### I'm an aspiring backend developer. :simple_smile:
-### I mainly study Java and Spring. :선물_하트:
+### I mainly study Java and Spring. :gift_heart:
 
 ### My gmail 
 ### My Blog
