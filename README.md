@@ -7,7 +7,7 @@
 <br></br>
 ### :pencil2: Skills currently being studied 
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-the-badge&logo=JAVA&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/JSP-007396?style=flat-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat-the-badge&logo=SPRING&logoColor=white">
-<br></br>
+
 <!--
 **soyoungkimm/soyoungkimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
