@@ -1,6 +1,6 @@
 ### 👋 Hello! 
 ### I'm an aspiring backend developer. :smile:
-### I mainly study Java and Spring. 
+### I mainly study Jsp and Spring. 
 <br></br>
 ### :small_blue_diamond: My Gmail <a href="mailto:ksoyoung09@gmail.com">&nbsp;<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-the-badge&logo=Gmail&logoColor=white"/></a>
 ### :small_blue_diamond: My Blog <a href="https://ksyy.tistory.com/">&nbsp;<img src="https://img.shields.io/badge/Blog-31B8BB?style=flat-the-badge&logo=blogger&logoColor=white"/></a>
