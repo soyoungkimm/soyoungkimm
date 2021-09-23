@@ -2,8 +2,8 @@
 ### I'm an aspiring backend developer. :smile:
 ### I mainly study Jsp and Spring. 
 <br></br>
-### :small_blue_diamond: My Gmail <a href="mailto:ksoyoung09@gmail.com">&nbsp;<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-the-badge&logo=Gmail&logoColor=white"/></a>
-### :small_blue_diamond: My Blog <a href="https://ksyy.tistory.com/">&nbsp;<img src="https://img.shields.io/badge/Blog-31B8BB?style=flat-the-badge&logo=blogger&logoColor=white"/></a>
+### :small_blue_diamond: My email <a href="mailto:ksoyoung09@gmail.com">&nbsp;<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-the-badge&logo=Gmail&logoColor=white"/></a>
+### :small_blue_diamond: My blog <a href="https://ksyy.tistory.com/">&nbsp;<img src="https://img.shields.io/badge/Blog-31B8BB?style=flat-the-badge&logo=blogger&logoColor=white"/></a>
 <br></br>
 ### :pencil2: Skills currently being studied 
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-the-badge&logo=JAVA&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/JSP-007396?style=flat-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat-the-badge&logo=SPRING&logoColor=white">
